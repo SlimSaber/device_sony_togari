@@ -53,5 +53,10 @@
     "repository": "CyanogenMod/android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
     "branch": "cm-12.0"
+  },
+  {
+    "repository": "SlimSaber/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "branch": "lp5.0"
   }
 ]
