@@ -1,6 +1,6 @@
 [
   {
-    "repository": "SlimRoms/device_sony_rhine-common",
+    "repository": "SlimSaber/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
     "branch": "lp5.0"
   },
@@ -10,17 +10,17 @@
     "branch": "lp5.0"
   },
   {
-    "repository": "SlimRoms/device_sony_common",
+    "repository": "SlimSaber/device_sony_common",
     "target_path": "device/sony/common",
     "branch": "lp5.0"
   },
   {
-    "repository": "SlimRoms/kernel_sony_msm8974",
+    "repository": "SlimSaber/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
     "branch": "lp5.0"
   },
   {
-    "repository": "SlimRoms/device_sony_msm8974-common",
+    "repository": "SlimSaber/device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
     "branch": "lp5.0"
   },
