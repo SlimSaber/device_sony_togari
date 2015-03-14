@@ -15,11 +15,6 @@
     "branch": "lp5.0"
   },
   {
-    "repository": "SlimRoms/device_sony_qcom-common",
-    "target_path": "device/sony/qcom-common",
-    "branch": "lp5.0"
-  },
-  {
     "repository": "SlimRoms/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
     "branch": "lp5.0"
