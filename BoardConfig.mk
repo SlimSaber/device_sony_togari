@@ -29,7 +29,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/togari/bluetooth
 HEALTHD_CHATTY_MODE := false
 
 # Compiler flags
-TARGET_GCC_VERSION_EXP := google-4.8
+TARGET_GCC_VERSION_EXP := 4.9
 SUPPRES_UNUSED_WARNING := true
 BOOT_ZIP_OUT_FILE := SlimKernel-$(TARGET_DEVICE)-$(PLATFORM_VERSION)-$(shell date +"%Y%m%d")
 
