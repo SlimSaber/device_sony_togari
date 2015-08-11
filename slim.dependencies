@@ -2,47 +2,32 @@
   {
     "repository": "SlimSaber/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch": "lp5.0"
+    "branch": "lp5.1"
   },
   {
-    "repository": "SlimSaber/device_qcom_common",
+    "repository": "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch": "lp5.0"
+    "branch": "cm-12.1"
   },
   {
     "repository": "SlimSaber/device_sony_common",
     "target_path": "device/sony/common",
-    "branch": "lp5.0"
+    "branch": "lp5.1"
   },
   {
     "repository": "SlimSaber/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "branch": "lp5.0-linux"
+    "branch": "lp5.1"
   },
   {
     "repository": "SlimSaber/device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "branch": "lp5.0"
-  },
-  {
-    "repository": "SlimSaber/hardware_qcom_display-caf",
-    "target_path": "hardware/qcom/display-caf/msm8974",
-    "branch": "lp5.0-caf-8974"
-  },
-  {
-    "repository": "SlimSaber/hardware_qcom_media-caf",
-    "target_path": "hardware/qcom/media-caf/msm8974",
-    "branch": "lp5.0-caf-8974"
-  },
-  {
-    "repository": "SlimSaber/hardware_qcom_audio-caf",
-    "target_path": "hardware/qcom/audio-caf/msm8974",
-    "branch": "lp5.0-caf-8974"
+    "branch": "lp5.1"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
-    "branch": "cm-12.0"
+    "branch": "cm-12.1"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_thermanager",
@@ -52,11 +37,11 @@
   {
     "repository": "SlimSaber/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch": "lp5.0"
+    "branch": "lp5.1"
   },
   {
     "repository": "CyanogenMod/android_hardware_qcom_fm",
     "target_path": "hardware/qcom/fm",
-    "branch": "cm-12.0"
+    "branch": "cm-12.1"
   }
 ]
