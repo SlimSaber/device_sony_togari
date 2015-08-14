@@ -43,5 +43,15 @@
     "repository": "CyanogenMod/android_hardware_qcom_fm",
     "target_path": "hardware/qcom/fm",
     "branch": "cm-12.1"
+  },
+  {
+    "repository": "SlimSaber/uber_arm-androideabi-4.9-cortex-a15",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-cortex-a15",
+    "branch":      "master"
+  },
+  {
+    "repository": "SlimSaber/uber_arm-eabi-4.9-cortex-a15",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-cortex-a15",
+    "branch":      "master"
   }
 ]
