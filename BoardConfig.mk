@@ -25,9 +25,6 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/togari/include
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/togari/bluetooth
 
-# Disable periodic battery polling
-HEALTHD_CHATTY_MODE := false
-
 # Compiler flags
 TARGET_GCC_VERSION_EXP := 4.9-cortex-a15
 SUPPRES_UNUSED_WARNING := true
@@ -35,7 +32,6 @@ BOOT_ZIP_OUT_FILE := SlimKernel-$(TARGET_DEVICE)-$(PLATFORM_VERSION)-$(shell dat
 
 # Kernel properties
 TARGET_KERNEL_CONFIG := slim_rhine_togari_row_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-google-4.8/bin/arm-eabi-
 
 # Partition information
 BOARD_VOLD_MAX_PARTITIONS := 26
